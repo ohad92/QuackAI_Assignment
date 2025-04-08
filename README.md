@@ -18,4 +18,5 @@ Run the application:
 
 Usage
 Follow the on-screen menu to add, edit, delete, or search articles.
+
 ![image](https://github.com/user-attachments/assets/40ae5adb-c386-4040-ab35-06795a82c402)
