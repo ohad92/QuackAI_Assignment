@@ -13,8 +13,8 @@ Setup
   git clone https://github.com/ohad92/QuackAI_Assignment.git
 2. Navigate to the project folder:
   cd QuackAI_Assignment
-Run the application:
-  python knowledge Base Manager.py
+3. Run the application:
+  python Knowledge Base Manager.py
 
 Usage
 Follow the on-screen menu to add, edit, delete, or search articles.
